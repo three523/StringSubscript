@@ -1,0 +1,6 @@
+use_frameworks!
+target 'StringSubscript_Tests' do
+  pod 'StringSubscript', :path => '../'
+  
+  
+end
