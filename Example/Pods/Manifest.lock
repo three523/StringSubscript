@@ -1,0 +1,16 @@
+PODS:
+  - StringSubscript (0.1.0)
+
+DEPENDENCIES:
+  - StringSubscript (from `../`)
+
+EXTERNAL SOURCES:
+  StringSubscript:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StringSubscript: 777d855557ca052e146bd87b1533ba9f900198ee
+
+PODFILE CHECKSUM: 5c8e9c13d5e7fa14971f30a6328229055c1a41d6
+
+COCOAPODS: 1.11.3

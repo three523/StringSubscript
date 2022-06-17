@@ -1,0 +1,6 @@
+framework module StringSubscript {
+  umbrella header "StringSubscript-umbrella.h"
+
+  export *
+  module * { export * }
+}
