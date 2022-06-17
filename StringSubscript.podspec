@@ -15,10 +15,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/thtree523@gmail.com/StringSubscript'
+  s.homepage         = 'https://github.com/three523/StringSubscript'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'thtree523@gmail.com' => 'thtree523@gmail.com' }
-  s.source           = { :git => 'https://github.com/thtree523@gmail.com/StringSubscript.git', :tag => s.version.to_s }
+  s.author           = { 'three523' => 'thtree523@gmail.com' }
+  s.source           = { :git => 'https://github.com/three523/StringSubscript.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
